@@ -4,7 +4,7 @@ import image1 from "./assets/images/match1.png";
 function App() {
   return (
     <>
-      <div class="bg-[#111] w-full h-full">
+      <div class="bg-[#111] w-full h-full lg:h-screen">
         <nav class="px-4 py-8">
           <h1 class="text-5xl font-bold text-center text-white">
             Trend Trackers
