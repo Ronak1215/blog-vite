@@ -17,23 +17,16 @@ function App() {
               Match Revealed ?"
             </h2>
             <p class="mt-4 lg:mt-0">
-              Lorem ipsum, dolor sit amet consectetur adipisicing elit.
-              Excepturi, illum? Repudiandae beatae voluptatibus tempore libero
-              saepe quod explicabo cupiditate similique, sint voluptates,
-              accusamus quae architecto ipsum rem. Quaerat, id dolores. Lorem
-              ipsum dolor sit amet consectetur adipisicing elit. Cumque fuga
-              architecto quisquam maiores alias necessitatibus eius atque iste
-              aliquam laudantium voluptas illo dignissimos aut, magni molestiae
-              voluptatem officiis quae temporibus nemo pariatur at? Veritatis,
-              debitis autem. Rerum provident magni illum mollitia nisi,
-              molestiae vero deserunt omnis tempore cum accusantium veritatis
-              repellendus. Magni recusandae corrupti explicabo vero, voluptas
-              incidunt deleniti molestiae saepe sequi tempore, sed quaerat
-              suscipit quia laudantium quibusdam fuga blanditiis, fugiat eius
-              numquam minima enim rerum sint doloribus? Veritatis, consequatur,
-              a blanditiis ducimus maxime tenetur omnis aperiam, eum suscipit
-              nam facere earum voluptatum modi ut. Aspernatur, excepturi!
-              Expedita, culpa?
+            Get ready for a high-voltage showdown as cricket giants India and Australia lock horns in a thrilling encounter! With pride, glory, and bragging rights at stake, this match promises to be an absolute cracker.  
+            <br />
+            <br />
+            India, armed with a star-studded batting lineup featuring the likes of Rohit Sharma, Virat Kohli, and the young sensation Shubman Gill, will aim to set the stage on fire. But the real game-changer could be India's spin wizards—Ravindra Jadeja and Kuldeep Yadav—who can bamboozle the Aussies with their tricks and turns.  
+            <br />
+            <br />
+            On the other side, Australia, known for their fearless and aggressive style, will bank on their explosive batsmen like Travis Head, and Steve Smith, who can single-handedly flip the game in a matter of overs.The pitch conditions and toss could play a big role, with teams likely preferring to chase. 
+            <br />
+            <br />
+            Buckle up, cricket fans! This is going to be a nail-biting, edge-of-the-seat thriller you won’t want to miss! 🏏
             </p>
           </div>
           <div class="lg:w-2/4">
