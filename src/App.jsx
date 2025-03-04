@@ -26,7 +26,7 @@ function App() {
             On the other side, Australia, known for their fearless and aggressive style, will bank on their explosive batsmen like Travis Head, and Steve Smith, who can single-handedly flip the game in a matter of overs.The pitch conditions and toss could play a big role, with teams likely preferring to chase. 
             <br />
             <br />
-            Buckle up, cricket fans! This is going to be a nail-biting, edge-of-the-seat thriller you won’t want to miss! 🏏
+            Buckle up, cricket fans! This is going to be a nail-biting, edge-of-the-seat thriller you won’t want to miss!🔥🏏
             </p>
           </div>
           <div class="lg:w-2/4">
