@@ -1,5 +1,5 @@
 import "./App.css";
-import image1 from "./assets/images/match1.png";
+import image1 from "./assets/images/match1.webp";
 
 function App() {
   return (
